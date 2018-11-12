@@ -144,6 +144,9 @@
     "preferredNamespaceUri" : {
       "@id" : "http://purl.org/vocab/vann/preferredNamespaceUri"
     },
+    "SmartPhone" : {
+      "@id" : "http://w3id.org/def/ekaw2018#SmartPhone"
+    },
     "SmartOven" : {
       "@id" : "http://w3id.org/def/ekaw2018#SmartOven"
     },

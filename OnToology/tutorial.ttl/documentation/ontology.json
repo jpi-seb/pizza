@@ -1154,6 +1154,16 @@
     "@id" : "http://w3id.org/def/ekaw2018#Device"
   } ]
 }, {
+  "@id" : "http://w3id.org/def/ekaw2018#SmartPhone",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@language" : "en",
+    "@value" : "smartphone"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://w3id.org/def/ekaw2018#Device"
+  } ]
+}, {
   "@id" : "http://w3id.org/def/ekaw2018#SmartRefrigerator",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {

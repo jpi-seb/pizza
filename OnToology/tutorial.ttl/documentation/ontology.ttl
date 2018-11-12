@@ -234,6 +234,12 @@ owl:cardinality rdf:type owl:AnnotationProperty .
            rdfs:label "Smart oven"@en .
 
 
+###  http://w3id.org/def/ekaw2018#SmartPhone
+:SmartPhone rdf:type owl:Class ;
+            rdfs:subClassOf :Device ;
+            rdfs:label "smartphone"@en .
+
+
 ###  http://w3id.org/def/ekaw2018#SmartRefrigerator
 :SmartRefrigerator rdf:type owl:Class ;
                    rdfs:subClassOf :Device ;

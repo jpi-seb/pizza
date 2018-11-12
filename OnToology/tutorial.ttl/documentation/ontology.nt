@@ -200,6 +200,11 @@
 <http://w3id.org/def/ekaw2018#SmartOven> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://w3id.org/def/ekaw2018#Device> .
 <http://w3id.org/def/ekaw2018#SmartOven> <http://www.w3.org/2000/01/rdf-schema#label> "Smart oven"@en .
 # 
+# http://w3id.org/def/ekaw2018#SmartPhone
+<http://w3id.org/def/ekaw2018#SmartPhone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://w3id.org/def/ekaw2018#SmartPhone> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://w3id.org/def/ekaw2018#Device> .
+<http://w3id.org/def/ekaw2018#SmartPhone> <http://www.w3.org/2000/01/rdf-schema#label> "smartphone"@en .
+# 
 # http://w3id.org/def/ekaw2018#SmartRefrigerator
 <http://w3id.org/def/ekaw2018#SmartRefrigerator> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <http://w3id.org/def/ekaw2018#SmartRefrigerator> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://w3id.org/def/ekaw2018#Device> .
