@@ -3,6 +3,6 @@ rankdir=LR;
 size="1501"
 	"example:" -> "http://www.oeg-upm.net/" [ label = "dc:publisher" ];
 	"example:" -> "http://purl.org/NET/rdflicense/cc-by4.0" [ label = "dcterms:license" ];
-	"example:" -> "base:" [ label = "owl:imports" ];
+	"example:" -> "http://iot.linkeddata.es/def/core#" [ label = "owl:imports" ];
 
 }
